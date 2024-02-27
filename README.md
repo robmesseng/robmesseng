@@ -1,4 +1,4 @@
-🚀 ¡Hola! Soy Ingeniero de Procesos y Científico de Datos Certificado.
+🚀 ¡Hola! Mi nombre es Robinson y soy Ingeniero de Procesos y Científico de Datos.
 
 🔍 Mis habilidades avanzadas y certificación en Machine Learning, Deep Learning e Inteligencia Artificial con Python me permiten crear soluciones innovadoras.
 
