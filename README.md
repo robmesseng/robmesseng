@@ -1,16 +1,16 @@
-🚀 ¡Hola! Mi nombre es Robinson y soy Ingeniero de Procesos y Científico de Datos.
+🚀 Hello! My name is Robinson and I am a Process Engineer and Data Scientist.
 
-🔍 Mis habilidades avanzadas y certificación en Machine Learning, Deep Learning e Inteligencia Artificial con Python me permiten crear soluciones innovadoras.
+🔍 My advanced skills and certification in Machine Learning, Deep Learning, and Artificial Intelligence with Python allow me to create innovative solutions.
 
-💻 Cuento con experiencia en Python (Numpy, Matplotlib, Pandas, Scikit-learn, Keras, Tensorflow, PyTorch, Seaborn, Scipy) y en el manejo de SQL y R para análisis de datos y desarrollo de modelos predictivos.
+💻 I have experience in Python (Numpy, Matplotlib, Pandas, Scikit-learn, Keras, Tensorflow, PyTorch, Seaborn, Scipy) and in handling SQL and R for data analysis and predictive model development.
 
-📊 Me especializo en visualización de datos con Power BI y creación de animaciones con ManimCE.
+📊 I specialize in data visualization with Power BI and creating animations with ManimCE.
 
-🌐 Apasionado por aplicar tecnologías emergentes para optimizar procesos y tomar decisiones informadas.
+🌐 Passionate about applying emerging technologies to optimize processes and make informed decisions.
 
-📈 Como Practicante de Lean Six Sigma, me enfoco en la mejora continua y eficiencia operativa.
+📈 As a Lean Six Sigma Practitioner, I focus on continuous improvement and operational efficiency.
 
-🏦 Manejo de versiones con Git y GitHub.
+🏦 Proficient in version control with Git and GitHub.
 
-💼 Actualmente disponible para roles en Data Analytics y Data Engineering. ¡Contáctame a través de LinkedIn y Twitter y revisa mis artículos en Medium!
+💼 Currently available for roles in Data Analytics and Data Engineering. Contact me through LinkedIn and Twitter!
 
