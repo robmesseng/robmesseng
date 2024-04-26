@@ -8,8 +8,6 @@
 
 🌐 Passionate about applying emerging technologies to optimize processes and make informed decisions.
 
-📈 As a Lean Six Sigma Practitioner, I focus on continuous improvement and operational efficiency.
-
 🏦 Proficient in version control with Git and GitHub.
 
 💼 Currently available for roles in Data Analytics and Data Engineering. Contact me through LinkedIn and Twitter!
